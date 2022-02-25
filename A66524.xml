@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A scourge to the rebellious, or, A sermon preached at the parish Church of St. Antholin, in the city of London, June the 28th, 1685 by Steph. Willoughby ...</title>
+            <author>Willoughby, Stephen, b. 1657 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66524</idno>
+            <idno type="STC">Wing W2862B</idno>
+            <idno type="STC">ESTC R38661</idno>
+            <idno type="EEBO-CITATION">17881991</idno>
+            <idno type="OCLC">ocm 17881991</idno>
+            <idno type="VID">106703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106703)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1110:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A scourge to the rebellious, or, A sermon preached at the parish Church of St. Antholin, in the city of London, June the 28th, 1685 by Steph. Willoughby ...</title>
+                  <author>Willoughby, Stephen, b. 1657 or 8.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet, for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains numerous errors in paging and pages bound out of order.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jonah II, 4 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106703:1" rendition="simple:additions"/>
+            <p>A SCOURGE To the REBELLIOUS OR A SERMON Preached at the Pariſh Church of St. <hi>Antholin,</hi> in the City of <hi>London June</hi> the <hi>28th.</hi> 1685. By <hi>Steph. Willoughby,</hi> M. A.</p>
+            <q>
+               <p>For behold the day cometh that ſhall burn as an oven, and all the proud, yea, and all that do wickedly ſhall be ſtubble, and the day that cometh ſhall burn them up, ſaith the Lord of hoſts, that it ſhall leave them nei<g ref="char:EOLhyphen"/>ther root nor branch.</p>
+               <bibl>
+                  <hi>Mal. 4.1.</hi>
+               </bibl>
+            </q>
+            <q>
+               <hi>Pax bello potior.</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Enter'd according to ORDER.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet,</hi> for the Authour, MDCLXXXV</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:106703:2"/>
+            <pb facs="tcp:106703:2"/>
+            <head>The Epiſtle DEDICATORY, To the Right Reverend Fa<g ref="char:EOLhyphen"/>ther in God, <hi>Thomas</hi> Lrod Biſhop of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I need not tell the World of your unwearied Dili<g ref="char:EOLhyphen"/>gence, to find out a Bleſſed Name in the Book of Life, that herald's your Praiſes above the Wings of Common Fame, and ſets you in a de<g ref="char:EOLhyphen"/>gree of Glory there; neither need I trouble you with any other Apology for what I have done than even the for lorne Eſtate of our divided Iſle; the hi<g ref="char:EOLhyphen"/>deous Noiſe of a Rebellion blackens the Land with dread, leaſt Apoſtaſie, or the Invaſion of a revi<g ref="char:EOLhyphen"/>ved <hi>Julian</hi> ſhould diſturb the Peace of our <hi>Sion;</hi> and though Ruin threaten my welfair in this diſtract<g ref="char:EOLhyphen"/>ted Age; yet I declare, I had rather follow <hi>Presby<g ref="char:EOLhyphen"/>tery</hi> to the Gibbet, than be a Mourner at the Funeral Solemnity of <hi>Epiſcopacie</hi> to the Grave. I confeſs indeed my Oblation might have deſerv'd better En<g ref="char:EOLhyphen"/>tertainment, if it had the management of a riper Wit: But I'll beg of all men to believe that my Geni<g ref="char:EOLhyphen"/>us feeds upon Pulſe and Water, though I fear they will allow me no more favour than uſually men do to
+<pb facs="tcp:106703:3"/>thoſe whom the Preſs makes Common; I'll ſubmit to Providence; and your Lordſhip's Candor, in the per<g ref="char:EOLhyphen"/>uſal of my little Book; and if it ſhould render you a<g ref="char:EOLhyphen"/>ny Satisfaction next to God's Glory, I have gain'd my only end, &amp; that as the Almighty hath given an A<g ref="char:EOLhyphen"/>bility to ſuchan examplary piece of Piety as you; ſo that you may be a continual Succour to all the languiſh<g ref="char:EOLhyphen"/>ing Members of an Holy Jeſus, until the day ſhall come, when ſorrow ſhall be no more; but Triumph and Bliſs the Period of your Mortal Race, is the Hear<g ref="char:EOLhyphen"/>ty Prayer of your</p>
+            <closer>
+               <signed>
+                  <hi>Lordſhip's Moſt Faithful Servant, and Obedient Son,</hi> S. Willoughby.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106703:3" rendition="simple:additions"/>
+            <head>A SCOURGE to the REBELLIOUS Or a SERMON Preached At the Pariſh Church of St. <hi>Antholin.</hi> on the <hi>28th.</hi> of <hi>June,</hi> 1685.</head>
+            <epigraph>
+               <q>
+                  <bibl>Jonah. <hi>2.4.</hi>
+                  </bibl>
+                  <p>Yet Fourty Days and Ninevch ſhall be overthrown.</p>
+               </q>
+            </epigraph>
+            <p>NOthing can favour a Chriſtian in his journey to an immortal <hi>Canaan</hi> while he courts the falſe pleaſures of a fading World the beſt whereof decay's in the bud, and dy's when they begin to be: The example is eve<g ref="char:EOLhyphen"/>ry Sinner, but particularly the man in Paradiſe, that was baited with an Apple, and hooked in, to a ſtate of dying: Hence the Apoſtle may ſeem
+<pb n="26" facs="tcp:106703:6" rendition="simple:additions"/>to have alluded in his Epiſtle to the <hi>Romans what fruit had you in thoſe things; whereof you are now aſhamed? for the end of thoſe things is Death.</hi> Such were the <hi>Ninevites</hi> in my Text, to whom a learned Orator, <hi>Jonah,</hi> the holy Pro<g ref="char:EOLhyphen"/>phet, came, preſſing Repentance with the threats of Ruin; <hi>Nineveh ſhall be overthrown,</hi>
+               <note n="*" place="margin">
+                  <hi>Jonah</hi> 3.5.7.</note> 
+               <hi>ſo the people believed God, and proclaimed an univerſal Faſt;</hi> The <hi>Marble Pallace,</hi> and the <hi>Clay Cottage</hi> were hung in Sack-Cloath, and ſat in Aſhes, <hi>leſt Nineveh ſhould be overthrown.</hi>
+            </p>
+            <p>In which Words obſerve,
+<list>
+                  <item>1. A Prediction, with a Limitation. <hi>Yet Fourty Days.</hi>
+                  </item>
+                  <item>2. A Denunciation of Deſolation. <hi>Nineveh ſhall be overthrown.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Whence theſe following Doctrines do ariſe,
+<list>
+                  <item>1. That Sin brings Judgment.</item>
+                  <item>2. That God uſually warns all the Rebells of Heaven, of their approaching danger; as a method he takes to avert a final Deſtruction beyond the Grave.</item>
+               </list>
+            </p>
+            <p n="3">3ly. That it is not the outward bravery of an Earthly Sphere, not the Pomp and Pageantry of a ſading World, that can guard us, if we ſin, from the frowns of Heaven; or ſhield us from the Fatal Blow; For <hi>Nineveh,</hi> though outwardly adorn'd with galantry, yet being inwardly blacken'd with
+<pb n="27" facs="tcp:106703:6" rendition="simple:additions"/>deformity; therefore <hi>exactis quadraginta diebus,</hi> Nineveh <hi>delebitur.</hi>
+            </p>
+            <p>
+               <hi>Yet forty Days, and</hi> Nineveh <hi>ſhall be overthrown.</hi>
+            </p>
+            <p n="1">1ſt. That Sin brings Judgment.</p>
+            <p>Sin, and Sorrow, Irreligion, and the Scourge do meet in Families or Villages, Towns or Pro<g ref="char:EOLhyphen"/>vinces, Cities or Common-Wealths: When the firſt beats the Drum for Battle the laſt begins the March, and leaves the ſinner in a Field of Blood: <hi>For as by one man Sin enter'd into the World, and Death by Sin; ſo Death paſs'd upon all men,</hi>
+               <note n="*" place="margin">
+                  <hi>Rom.</hi> 5.4.</note> 
+               <hi>for that all have ſinned.</hi> This is the Harbinger of Ruin, and the Fore-runner of a dreadful Day, when the unregenerate ſhall paſs the Gates of Death, and tremble at the Bar of Judgment; when all the miſcarriages that ever have been committed in the darkeſt Corners of the Land, ſhall appear before God and Angels;<note n="*" place="margin">
+                  <hi>Joel</hi> 3.16.</note> 
+               <hi>Then the Lord ſhall roar out of Zion, and utter his voice from</hi> Jeruſalem, <hi>the Heavens and the Earth ſhall ſhake:</hi> Sin is the Fountain, Guilt and Puniſhment are the ſtreams; that's the Cauſe, this is the Ef<g ref="char:EOLhyphen"/>fect. Now all we that aim at the Haven of an E<g ref="char:EOLhyphen"/>ternal Reſt muſt paſs by that <hi>Scylla,</hi> and this <hi>Cha<g ref="char:EOLhyphen"/>rybdis;</hi> for ſays <hi>Solomon:</hi>
+               <note n="*" place="margin">
+                  <hi>Prv.</hi> 6.7.</note> 
+               <hi>Can a man take Fire in his boſom and his Cloaths not be burn'd?</hi> which implys that there is no ſin without ſorrow; nay, deſtructi<g ref="char:EOLhyphen"/>on certainly follows, unleſs Heavens aſſiſting Grace reform our Lives, and conform our Obedi<g ref="char:EOLhyphen"/>ence,
+<pb n="4" facs="tcp:106703:5"/>to all the Precepts of an holy Jeſus. But deſolation follows Sin from the one part of the Earth unto the other; it ranſacks the corners and cranies of a ſinful Land:<note n="*" place="margin">
+                  <hi>Pſal.</hi> 107.34.</note> 
+               <hi>The Almighty turn<g ref="char:EOLhyphen"/>eth Revers into a Wilderneſs, and Water-ſpring into a dry Ground; a fruitful Land into Barrenneſ for the wickedneſs of them that dwell therein</hi>
+               <note n="*" place="margin">
+                  <hi>Joſh.</hi> 7.29.</note> 
+               <hi>'Twas</hi> Achan's <hi>ſin that brought him under the bur<g ref="char:EOLhyphen"/>then of a painful End.</hi> God will pour out his Wrath upon the Families that call not upon his Name:<note n="*" place="margin">
+                  <hi>Hoſ.</hi> 9.11.</note> 
+               <hi>This made</hi> Ephraim's <hi>Glory flee away from the Birth-Womb and Conception:</hi> This made <hi>Sodom</hi> and <hi>Gomorah</hi> fewel for Divine Vengeance in a dreadful burning. Here Sin enters the Gates and Ruin throws down the Bull-warks and Strong-holds; demoliſhes the lofty Fabricks, and makes the poor ſinners Captives to the ſcorch<g ref="char:EOLhyphen"/>ing Flames<note n="*" place="margin">
+                  <hi>Amos</hi> 1.2.</note> 
+               <hi>This make the Habitation of the Shep<g ref="char:EOLhyphen"/>herds mourn, and the top of</hi> Carmel <hi>wither.</hi>
+            </p>
+            <p>Hence it plainly appears that Sin brings Judg<g ref="char:EOLhyphen"/>ment: but for the further Proſecution of my pre<g ref="char:EOLhyphen"/>ſent undertaking, let us conſider,</p>
+            <p n="1">1ſt. After what manner doth the Almighty afflict mankind for ſin? I Anſwer.</p>
+            <p>By how many methods we take to ſin, by ſo many ways God is able to ſend his Judgments ſometimes by Water; thus an univerſal Deluge once came upon an unrepenting World, and brought perdition in a raging Wave. Thus he overwhelmed <hi>Pharoah,</hi> and all his Hoſt in the <hi>Red
+<pb n="5" facs="tcp:106703:5" rendition="simple:additions"/>Sea:</hi> He hath Hail-ſtones to kill the <hi>Amorites</hi> and<note n="*" place="margin">2 <hi>Kings</hi> 19. <hi>ver.</hi> 35.</note> 
+               <hi>Angels,</hi> one of which will, <hi>deſtroy in one Night, an hundred, fourſcore and five thouſand of the Hoſt of the</hi> Aſſyrians: <hi>the Earth is the Lord's, and all that therein is; he hath made it open its jaws to ſwallow up</hi> Corah, <hi>and his fellow Rebells.</hi> Lice, Frogs, and Flies, were the <hi>Aegyptian</hi> Plagues; ſometimes by a Civil War, with ſeuds and diſorder in their own dwellings: thus, when the <hi>Amonites</hi> had de<g ref="char:EOLhyphen"/>ſtroyed the Inhabitants of <hi>Mount Seir,</hi> they at laſt preyed upon one another, whilſt the Earth was bedewed with Blood, over-ſpread with the relicts of the ſpoil. The Almighty's Wiſdom is not limited to one particular way: His ways are in the Seas, his paths are in the deep Waters;<note n="*" place="margin">
+                  <hi>Job.</hi> 28.7.8.</note> 
+               <hi>The Vultur's Eye hath not ſeen them, the Lyon's Whelp hath not troden them, nor the fierce Lyon paſ<g ref="char:EOLhyphen"/>ſed by them;</hi> therefore we may add a Note of Admiration with the Apoſtle.<note n="*" place="margin">
+                  <hi>Rom.</hi> 11.33</note> 
+               <hi>O, the depth of the Riches, both of the Wiſdom and Knowledge of God! How unſearchable are his Judgments, and his ways paſt finding out?</hi>
+            </p>
+            <p n="2">2ly. The time when?</p>
+            <p>When the Sins of the people are ripe: therefore God told <hi>Ibraham,</hi> that his Seed ſhould not, poſ<g ref="char:EOLhyphen"/>ſeſs the <hi>Amorites</hi> land till the fourth Generation; and the Reaſon was given this, <hi>(viz.) Becauſe the Iniquity of the Amorites was not yet full.</hi>
+            </p>
+            <pb n="30" facs="tcp:106703:4" rendition="simple:additions"/>
+            <p n="3">3ly. What are the ſins that are moſt deſtru<g ref="char:EOLhyphen"/>ctive to a Nation, or a Kingdom? ſuch indeed, are all the Breaches of the Moral Law; and there<g ref="char:EOLhyphen"/>fore for breach of Covenant God threat'ned <hi>Ju<g ref="char:EOLhyphen"/>dah:</hi>
+               <note n="*" place="margin">
+                  <hi>Jer.</hi> 22.6, 7, 8.</note> 
+               <hi>Thus ſaith the Lord unto the King's Houſe of</hi> Judah; <hi>thou art</hi> Gilead <hi>unto me, and the Head of</hi> Lebanon, <hi>yet ſurely I will make thee a Wilderneſs and Cities that are not inhabited; I will prepare de<g ref="char:EOLhyphen"/>ſtroyers againſt thee; many Nations ſhall paſs by this City, and ſhall ſay, wherefore hath the Lord done this, to this City? then ſhall they anſwer, be<g ref="char:EOLhyphen"/>cauſe they have forſaken the Covenant of the Lord.</hi>
+            </p>
+            <p>But, I ſhall confine my ſelf to thoſe that are moſt common, and therefore ſeem to be moſt de<g ref="char:EOLhyphen"/>ſtructive here.</p>
+            <p>Firſt, Swearing.</p>
+            <p>An Oath (ſays the Apoſtle) <hi>is the end of all ſtrife,</hi> and there is ſcarce found any other means, or, to be ſure, none to be compar'd with this, to determine Controverſies between man and man; without which, no Juſtice can appear to be; no humane Society can ſtand: 'Tis twofold, either Aſſertory or Promiſory: Now 'tis a grievous ſin, when men ſhall make uſe of the Name of God, ei<g ref="char:EOLhyphen"/>ther lightly or wantonly, or to bind an Argu<g ref="char:EOLhyphen"/>ment, and make it a Period to a Lye. Or,</p>
+            <p n="2">2ly. If a man hath no regard to his abſolute Neceſſity, but wilfully acts contrary to his Pro<g ref="char:EOLhyphen"/>miſe made, ratified and confirmed by Oath; then he renders abuſes to the ſacred Name of Ma<g ref="char:EOLhyphen"/>jeſty,
+<pb n="31" facs="tcp:106703:4" rendition="simple:additions"/>vilifies and contemns Omnipotency, and incurrs a ſevere penalty annexed to, and de<g ref="char:EOLhyphen"/>nounced againſt the breach of this moral Pre<g ref="char:EOLhyphen"/>cept: <hi>Thou ſhalt not take the name of the Lord thy God in vain.</hi> And when men are once arrived to ſuch a height of wickedneſs as to make this cu<g ref="char:EOLhyphen"/>ſtomary (breathing out Blaſphemy, as if they intend to infect the Air and poyſon ſucceeding Generations with their Plagues and Damning) what remains, but that their own Curſes ſhall return again? <hi>for God will not hold them guiltleſs that take his Name in vain;</hi> and the<note n="*" place="margin">
+                  <hi>Zech.</hi> 5.3.4.</note> 
+               <hi>flying Roll ſhall torment them,</hi> &amp;c. This makes a Nation ſorrow; <hi>for</hi>
+               <note n="*" place="margin">
+                  <hi>Jer.</hi> 23.10</note> 
+               <hi>becauſe of ſwearing, the Land mourneth.</hi>
+            </p>
+            <p n="2">2. Pride.</p>
+            <p>The lofty Mountains ſhall be barren, when the lower Vallies are laden and enriched with ſtore. <hi>God reſiſteth the Proud and giveth grace to the Humble;</hi> Shame is her hand-maid that waits upon her to the gates of ruin;<note n="*" place="margin">
+                  <hi>Prov.</hi> 11.7.</note> 
+               <hi>For when Pride cometh, then cometh Shame:</hi> and 'tis obſer<g ref="char:EOLhyphen"/>ved that the Miſtriſs always walks before her Attendants,<note n="*" place="margin">
+                  <hi>Prov.</hi> 16.18.</note> 
+               <hi>So Pride goes before Diſtruction; and an haughty Spirit before a fall.</hi>
+            </p>
+            <p n="3">3ly. Carnal Security.</p>
+            <p>When men are lulled aſleep on the lap of a car<g ref="char:EOLhyphen"/>nal Security, and lye ſnoaring upon a bed of Time, without any regard to a furture Being; like the
+<pb n="8" facs="tcp:106703:7" rendition="simple:additions"/>indulgeing<note n="*" place="margin">
+                  <hi>Sardanupa<g ref="char:EOLhyphen"/>lus;</hi> Ede, bibe lude poſt mor<g ref="char:EOLhyphen"/>tem mula vo<g ref="char:EOLhyphen"/>lupi</note> Epicure, that took his repaſts in the preſent Tenſe, and would have no joyes beyond the Grave: 'Tis then high time, if ever, to ſhake off ſuch a drouſineſs, leſt it prove a Lethargy unto an eternal ſlumber Such was the cuſe of the man in the Goſpel, <hi>Who though he had heaped up trea<g ref="char:EOLhyphen"/>ſures for many years, yet the ſame Night in which he though he had been moſt ſecure in the entry munt of his worldly Goods, his foul was nequired of him; then what were thoſe things which he had poſſeſs'd.</hi>
+            </p>
+            <p>And ſuch are the common vanities of our de<g ref="char:EOLhyphen"/>praved Age, that allure poor Souls with their flattering ſmiles, and counterfeit delights, until they tickle them to Death. Therefore ſays our Saviour, <hi>love not the World, nor the things of the World; for whoſo loveth the World, the love of the Father is not in him.</hi> Why then do we ſlumber out our days in this tranſitory Sphere, among ſuch vanities, that only lead down to the Cham<g ref="char:EOLhyphen"/>bers of Death? Knowing that even it muſt be diſſolved as well as we; the Sun ſhall be dark'ned, and the Moon ſhall withdraw her ſhining; the Stars ſhall fall, and the Powers of Heaven ſhall be ſhaken; all moſt become a prepared Maſs and a funeral Pile for the <hi>Breath of the Lords diſplea<g ref="char:EOLhyphen"/>ſure, that like a ſtream of Brimſtone doth kindle</hi> Tophet: <hi>Tho' Sentence againſt an Evil Work is not executed ſpeedily why ſhould the Hearts of the Sons of men, be fally ſet to do wickedly?</hi> But let ſuch Security have an early Summons,<note n="*" place="margin">
+                  <hi>Iſa.</hi> 30.33.</note> 
+               <hi>For ſuch ſhall know while they ſay,</hi>
+               <note place="margin">
+                  <hi>Jud.</hi> 81 7.</note> 
+               <hi>peace, peace, ſudden deſtructi<g ref="char:EOLhyphen"/>on
+<pb n="9" facs="tcp:106703:7"/>a ſhall come upon them, as upon a Woman in traveſs and they ſhall not eſcape.</hi> But,</p>
+            <p n="4">4ly. And laſtly</p>
+            <p>Diviſion, or breach of Uniformity is another National, overturningand Soul-deſtroying ſin.</p>
+            <p>One asked a <hi>Theſſalian,</hi> who were moſt wel<g ref="char:EOLhyphen"/>come to his Countrymen? He anſwered, <hi>they who were moſt peaceable and declined War.</hi> Now that the breach of Uniformity is a Soul-deſtroy<g ref="char:EOLhyphen"/>ing and National overturning ſin, will ap<g ref="char:EOLhyphen"/>pear under a twofold Conſideration.</p>
+            <p n="1">1. In that it is directly contrary to the welfare of the Church, and ſecondly to State too.</p>
+            <p>As for the firſt.</p>
+            <p>Herein all will pretend to one common Faith, and yet ingroſs all the <hi>Hereſies</hi> of paſt Ages, and ſtudy inventions to find out more: All are ex<g ref="char:EOLhyphen"/>treamly wrapped up in their own perſuaſions, impatient to hear of any error that belongs to them; zealous to enthrone their judgments, and prefer their phantaſies to paſs into publick Ordi<g ref="char:EOLhyphen"/>nances and become the eſtabliſhed forms of Reli<g ref="char:EOLhyphen"/>gion here: Nay, there is ſcarce an <hi>Hereſie</hi> but will pretend to ſome Antiquity to authorize its Being.</p>
+            <p>
+               <note n="(a)" place="margin">Euſeb. lib. <hi>3.</hi> cap. <hi>33.</hi>
+               </note> Thus the <hi>Millenaries</hi> fetch theirs from <hi>Papias.</hi>
+            </p>
+            <p>
+               <note n="(b)" place="margin">Auguſt. cont. Donat. Tom. <hi>7.</hi> lib <hi>2.</hi> p. <hi>396.</hi>
+               </note> The <hi>Anabaptiſts</hi> from <hi>Agrippinus.</hi>
+            </p>
+            <p>
+               <note n="(c)" place="margin">Epiph. Har. <hi>62.</hi> p. <hi>513.</hi>
+               </note> The <hi>Socinians</hi> are as Old as <hi>Sabellius.</hi> And theſe <hi>Reprobatarians</hi> from <hi>Simon Magus</hi> and
+<pb n="10" facs="tcp:106703:8"/>the <hi>Manichees.</hi>
+            </p>
+            <p>But ſo directly doth <hi>Schiſm</hi> oppoſe the welfare of our Church,<note place="margin">* <hi>Lam.</hi> 1.2.</note> 
+               <hi>That her tears hang ſore upon her cheeks becauſe of it.</hi> Hence it is that ſhe com<g ref="char:EOLhyphen"/>plains, <hi>Her friends have dealt treacherouſly with her and that amongſt all her Lovers ſhe hath few to comfort her;</hi>
+               <note n="*" place="margin">Illa te aiù portavit in u<g ref="char:EOLhyphen"/>tero, aiù a<g ref="char:EOLhyphen"/>luit &amp;c. <hi>Hier</hi> Ep. <hi>47.</hi>
+               </note> ſhe that once bore them in her own Bowels, and nouriſhed them in her own Womb, and even courts them now with a ſweet harmony to return again; ſhe that delights in no Throne ſave that of Bliſs, in no Attendants but men, Ton<g ref="char:EOLhyphen"/>gued like Angels, Winged like Eagles, and heart<g ref="char:EOLhyphen"/>ed like Doves; now ſings <hi>Lachrimae</hi> for her loſt Delinquents, her Prieſts ſigh, and her Virgins mourn, ſo that we may ſay with St. <hi>Hierom</hi>
+               <note n="*" place="margin">Quis un<g ref="char:EOLhyphen"/>qua<g ref="char:cmbAbbrStroke">̄</g> mortaliu<g ref="char:cmbAbbrStroke">̄</g> juxta vipe<g ref="char:EOLhyphen"/>ram ſecuros ſomnos capit, quae etſi non percutiat, certe ſolicitat. Epiph. <hi>47.</hi>
+               </note> 
+               <hi>who can ſleep ſecure that bordereth ſo upon the Viper? who if he ſting not ſurely ſolicites and endangereth out ſeduction.</hi>
+            </p>
+            <p>Now the firſt pretence that our <hi>Diſſenters</hi> had was to ſeek only the liberty of their own Conſci<g ref="char:EOLhyphen"/>ences: but now nothing more than the Soveraig<g ref="char:EOLhyphen"/>nity over other mens, in a Damnable Rebellion a Rebellion that wants an Argument to juſtifie its Being; do they fight for the <hi>Proteſtant</hi> Religi<g ref="char:EOLhyphen"/>on? that's kept ſecure from their invaſion, by the over-ruling providence of Heaven, and wanteth nothing ſave only the Conformity of thoſe that would deſtroy it. Is Religion grounded on thoſe Precepts which our bleſſed Jeſus left behind? So are all the Articles of our Faith; no Diminution nor Addition; and as for thoſe few remain
+<pb n="11" facs="tcp:106703:8"/>which they approve not of, we only borrow from he beſt of men, who lived in the time when a biſhop and a Martyr were both one,</p>
+            <p>Hence it is, that they who interrupt the peace of a true Religion by nouriſhing a Faction (if they own a God) might acknowledge that they diſo<g ref="char:EOLhyphen"/>bey his voice, when he ſaith, <hi>follow peace and ho<g ref="char:EOLhyphen"/>lineſs;</hi> and what follows but the total excluſion of immortal joys, <hi>without which peace no man ſhall ſee the Lord:</hi> And how far from peace are the preſent Oppoſers of our <hi>Sion?</hi> who defile the <hi>Preſs</hi> with unworthy Pens, and raviſh the <hi>Pulpit</hi> with prophane Tongues.</p>
+            <p>Our bleſſed Lord tells us of a ſort of People among the <hi>Jews,</hi> called <hi>Phariſees,</hi> who took away the Key of Knowledge, lock'd up the Law, and ſhut up the Kingdom of Heaven againſt men;<note place="margin">* <hi>Mat.</hi> 23.13.</note> that their Proſelytes could as ſoon enter the <hi>Se<g ref="char:EOLhyphen"/>creta Jehovae,</hi> the privacies of Heaven, as the Pre<g ref="char:EOLhyphen"/>ſence Chamber of God's revealed Will: and ſuch are (by a <hi>Geneva</hi> Tranſlation) the preſent op<g ref="char:EOLhyphen"/>poſers of our quiet; <hi>they lead Captive ſilly Women laden with their ſins,</hi> lock up the Kingdom of Heaven by their obſtinacy, and all the hopes of future joys by reſiſting Supremacy;<note n="*" place="margin">Rom. <hi>13.</hi>
+               </note> 
+               <hi>for whoſo reſiſteth the Power, reſiſteth the Ordinance of God, and they that reſiſt ſhall receive unto them<g ref="char:EOLhyphen"/>ſelves Damnation. Now if this be the way that leadeth unto life, the path in which the Redeemed of
+<pb n="12" facs="tcp:106703:9"/>the Lord do walk, then farewel Heaven and Religi<g ref="char:EOLhyphen"/>on too.</hi>
+            </p>
+            <p>But Secondly.</p>
+            <p>This is a National-overturning ſin, and there<g ref="char:EOLhyphen"/>fore prejudicial to State too.</p>
+            <p>Our Saviour faith, <hi>If a Kingdom be divided againſt it ſelf, that Kingdom cannot ſtand.</hi> But Diviſion is the greater ſin when it ſtrikes at the root of that Government which is eſtabliſhed by ſuch laws as Juſtice and Modeſty can poſſibly re<g ref="char:EOLhyphen"/>quir; ſuch as have abated the Royal dues for the intereſt of them that will be at peace; and what is the iſſue of this Diviſion, but Diſtraction in a Common Wealth? Hence Feuds and Diſ<g ref="char:EOLhyphen"/>cords, Deteſtations and Revilings do ariſe. <hi>The Son diſhonours his Father, and the Daughter ari<g ref="char:EOLhyphen"/>ſes againſt her Mother,</hi>
+               <note place="margin">* <hi>Mich.</hi> 8.5, 6.</note> 
+               <hi>Brother delivers up Brother to death,</hi>
+               <note place="margin">* <hi>Mat.</hi> 10.21.</note> 
+               <hi>and the Father the Son, and the Chil<g ref="char:EOLhyphen"/>dren ariſe againſt their Parents, and cauſe them to be put to Death;</hi>
+               <note place="margin">* <hi>Luk.</hi> 12.52.</note> 
+               <hi>five in one houſe are divided, three againſt two, and two againſt three.</hi> Hence it is that the Rich become Poor, and they that were once of a low Degree, would pride it in the Fea<g ref="char:EOLhyphen"/>thers of other Birds: <hi>Even when the ſpoylers come upon high places,</hi>
+               <note place="margin">* <hi>Ec.</hi> 10.6, 7.</note> Reloycing and Lamentati<g ref="char:EOLhyphen"/>ons do both attend the bloody Victorys in a Ci<g ref="char:EOLhyphen"/>vil War; and as Diviſion is ſinful, ſo our Con<g ref="char:EOLhyphen"/>queſts and Triumphs are mournful; for by how much greater is the ſpoyl, ſo much leſs is our Acquaintance here, and much of that blood
+<pb n="13" facs="tcp:106703:9"/>which we draw from others, is part of that which runneth in our own Veins: <hi>Thus the Lord doth Fan us as with a Fan in the Gates of our land; bereave us of our Children, our Widows are encrea<g ref="char:EOLhyphen"/>ſed above the ſand of the Seas, and the ſpoyler at Noon is brought upon us, and all becauſe we have ſinned againſt him.</hi>
+            </p>
+            <p>But who are the Actors in this bloody Tragedy?<note n="*" place="margin">
+                  <hi>Gen.</hi> 49.7.</note> 
+               <hi>Curſed be their Anger for it is fierce, and their Wrath for it is cruel.</hi> This once brought ſorrow to the <hi>Greeks,</hi> as <hi>Neſtor</hi> ſaid of the ſtrife betwixt <hi>Agamemnon</hi> and <hi>Achilles:</hi>
+               <note place="margin">Hom. il. lib. <hi>1.</hi>
+               </note> 
+               <hi>Plutrach</hi> calls it the Wound and Plague, and <hi>Socrates</hi> the Ax and Sword, <hi>Baſil</hi> the Rottenneſs and Ruſt, and <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> the Moth and Canker of the Soul.<note n="*" place="margin">Object.</note> An<g ref="char:EOLhyphen"/>ger may be in ſome meaſure allowable, if it be in the behalf of God, and the defence of Goodneſs: Only as<note n="*" place="margin">Exod. <hi>32.</hi>
+               </note> 
+               <hi>Moſes was wroth with</hi> Iſrael <hi>for their Idolatry,</hi>
+               <note n="*" place="margin">
+                  <hi>Numb.</hi> 16.15.</note> 
+               <hi>with</hi> Corah, Dathan, <hi>and</hi> Abiram, <hi>for their Conſpiracy;</hi>
+               <note n="*" place="margin">1 <hi>Sam.</hi> 19.14.</note> 
+               <hi>As</hi> Elias <hi>againſt</hi> Iſrael, <hi>for their Apoſtacy; and as</hi>
+               <note n="*" place="margin">
+                  <hi>Jer.</hi> 6.11.</note> Jeremiah <hi>was againſt the</hi> Jews <hi>for their Impietie:</hi> But Anger amongſt us is another thing, the Coal is blown up; and the Land is in a combuſtion now. He whom the Lord hath ſent to Crown the Earth with Peace, and the Land with Fatneſs, is diſturb'd in his own Throne: Malignants knock at his Royal Gates. He that ſtrengthens the Realm, and fortifies Dominions with a ſtanding Army, to ſecure us from the Invaſion of Foreign Enemies, cannot be at reſt for his home-bred Rebells; but they, like
+<pb n="14" facs="tcp:106703:10"/>ambitious <hi>Phaaeton</hi> would mount the Fiery Char<g ref="char:EOLhyphen"/>riot, drawn with Fury and Revenge, and ramb<g ref="char:EOLhyphen"/>le through our Brittiſh Spheres, that they who follow'd, might wade in Blood. <hi>But he that ſheddeth Man's Blood, by Man ſhall his Blood be ſhed.</hi>
+            </p>
+            <p>And this ſhall ſuffice concerning the firſt Do<g ref="char:EOLhyphen"/>ctrine, <hi>viz.</hi> That Sin brings Judgment.</p>
+            <p>I proceed to the ſecond.</p>
+            <p>
+               <hi>Viz.</hi> That God uſually warns all the Rebells of Heaven of their approaching danger, as a Me<g ref="char:EOLhyphen"/>thod he takes to avert a final ruin beyond the Grave.</p>
+            <p>Now that the Almighty's Arm is not ſtretched out for the Puniſhment of <hi>Evil Doers,</hi> without an early Summons to repent, that Iniquity may not be their ruin, appears from the words I have hitherto inſiſted on, where there is firſt a Pre<g ref="char:EOLhyphen"/>diction: <hi>Yet Forty Days.</hi>
+            </p>
+            <p n="2">2ly. A Deſolation: <hi>Nineveh ſhall be overthrown.</hi>
+            </p>
+            <p>Such is God's Patience to frail Mortality,<note place="margin">* <hi>Pet.</hi> 3.20.</note> that he ſpar'd the Old World with long-ſuffering in the Days of <hi>Noah,</hi>
+               <note place="margin">* <hi>Pſ.</hi> 95.10.</note> and provoking <hi>Iſrael</hi> Forty Years. <hi>Forty Years long was I grieved with this Generation;</hi> and Rebellious <hi>Nineveh, Forty Days.</hi> But if the hearts of men be ſo obdurate, that they will not turn before a <hi>Tamen,</hi> or a remarkable Warning come; then <hi>God will whet his Sword, he hath bent his Bow, prepared his Arrows, Inſtruments of Death, againſt his Perſecutors.</hi>
+            </p>
+            <pb n="15" facs="tcp:106703:10"/>
+            <p>Now the Almighty is ſaid to warn all the Re<g ref="char:EOLhyphen"/>bells of Heaven, <hi>&amp;c.</hi>
+            </p>
+            <p n="1">1ſt. By his Miniſters; ſuch was <hi>Jonah</hi> to <hi>Nine<g ref="char:EOLhyphen"/>veh,</hi> and <hi>Noah</hi> to the <hi>Old World:</hi> He gave them Commiſſion to cry aloud, and ſpare not; to lift up their Voice like a Trumpet, to tell the People their Sins.<note n="*" place="margin">
+                  <hi>Ezek.</hi> 3.18, 19, 20 21.</note> 
+               <hi>Son of man, ſaith the Lord, I have made thee a Watchman unto the Houſe of</hi> Iſrael; <hi>there<g ref="char:EOLhyphen"/>fore hear the Word at my mouth, and give them warning from me, when I ſay to the Wicked, thou ſhalt ſurely Dye, and thou giveſt him not warning to ſave his life, the ſame wicked man ſhall dye in his Iniquity, but his blood will I require at thine hand.</hi> And if the obſtinacy of ſinners be ſuch that they <hi>bring not forth Fruit meet for Repentance:</hi> Then let the Miniſters of God denounce Judgment;<note n="*" place="margin">
+                  <hi>Hoſ.</hi> 6.7. and <hi>Iſa.</hi> 3.11.</note> 
+               <hi>For I have hewn them ſaith the Lord, by the Pro<g ref="char:EOLhyphen"/>phets, I have ſlain them by the words of my mouth: VVoe unto the wicked, it ſhall be ill with him, for thereward of his hands ſhall be given him.</hi>
+            </p>
+            <p>But 2ly.</p>
+            <p>The Almighty warns a People by calling the Faithful to their long home.</p>
+            <p>At their departure, 'tis time that a whole Land ſhould mourn, for a diſmal deſolation is at hand: They being the Props and Pillars, Horſe-men and the Chariots of <hi>Iſrael,</hi> Walls and Bull-warks, both of Church and State, <hi>To ſtand as Moſes in the Gap, to turn away God's wrathful Indignation.</hi>
+               <pb n="16" facs="tcp:106703:11"/>Such is the prevailing Efficacy that attends the Miniſtry, that <hi>Eliphaz</hi> the <hi>Temanite</hi> ſaid of <hi>Job,</hi>
+               <note n="*" place="margin">
+                  <hi>Joh.</hi> 4.4.</note> 
+               <hi>Thy words have upholden him that is falling, and thou haſt ſtrengthened the feeble Knees:</hi> The wick<g ref="char:EOLhyphen"/>ed are ſpared from deſtruction, becauſe of the in<g ref="char:EOLhyphen"/>terceſſion of theſe holy ones: I deny not, but theſe may be taken away in a common Calamity. But had there been Fifty Righteous in <hi>Sodom;</hi> nay, if there had lacked Five of the Number; if there had been but Forty Five; take Five from that; if there had been but Forty there; nay, twice Ten more; if there had been but Twen<g ref="char:EOLhyphen"/>ty there; (yet Ten more;) if there had been but Ten there; <hi>Sodom</hi> would not have been laid waſte in Aſhes:<note n="*" place="margin">
+                  <hi>Gen.</hi> 18.32.</note> 
+               <hi>For ſays God, I will not deſtroy it for Tens ſake.</hi> So tenderly affected is the Lord with good men, that he will hear their Prayers for the Wicked:<note n="*" place="margin">Numb. <hi>25.</hi>
+               </note> 
+               <hi>For thus ſaith the Lord,</hi> Phi<g ref="char:EOLhyphen"/>nehas <hi>the Son of</hi> Eleazer, <hi>the Son of</hi> Aaron <hi>the Prieſt, hath turned my wrath away from the Chil<g ref="char:EOLhyphen"/>dren of</hi> Iſrael <hi>(While he was zealous for my ſake among them) that I conſumed not the Children of</hi> Iſ<g ref="char:EOLhyphen"/>rael <hi>in my jealouſie.</hi>
+            </p>
+            <p>Hence it appears, that the diſſolution of good men, is a prelude to our diſſolation, and a timely warning to all unrepenting Sinners.</p>
+            <p n="3">3ly. God uſually warns a People by ſome re<g ref="char:EOLhyphen"/>markable Judgment, <hi>viſiting our Offences with a Rod, and our ſins with Scourges,</hi> ſpeaking unto us in this Language, that we may ſpeedily return
+<pb n="17" facs="tcp:106703:11"/>from our wickedneſs, leſt a worſe Judgment fall upon us; for our Saviour ſaith,<note n="*" place="margin">
+                  <hi>Luk.</hi> 13.5</note> 
+               <hi>Except ye re<g ref="char:EOLhyphen"/>pent, ye ſhall all likewiſe periſh.</hi> The Almighty warns us.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 1. That all mankind may diſcern that neither Joy nor Miſery hath any dependance on either Chance or Fortune; but all things both in Hea<g ref="char:EOLhyphen"/>ven and Earth are guided by an over-ruling hand: <hi>I form the Light, ſays God, and create Dark<g ref="char:EOLhyphen"/>neſs,</hi>
+               <note place="margin">
+                  <hi>Iſa.</hi> 4, 5.7.</note> 
+               <hi>I make Peace, and create Evil; I the Lord do all theſe things.</hi>
+            </p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> 2ly. He warns a People with threats of Death, that we, by a newneſs of Life, might live to dye, and dye to live for ever; and herein is the mani<g ref="char:EOLhyphen"/>feſtation of his Patience, and long-ſufferings to the Sons of men: <hi>As I live ſaith the Lord, I have no pleaſure in the Death of the wicked, but that they turn from their Evil ways and live;</hi> and he graciouſly indents with his departing people: <hi>Turn ye, turn ye, from your Evil ways; for why will ye dye, O Houſe of</hi> Iſrael? Again,<note n="*" place="margin">
+                  <hi>Ezek.</hi> 33.11.</note> 
+               <hi>My peo<g ref="char:EOLhyphen"/>ple, ſays God, are bent to Backſliding from me, but how ſhall I give thee up</hi> Ephraim? <hi>how ſhall I deli<g ref="char:EOLhyphen"/>ver thee</hi> Iſrael? <hi>how ſhall I make thee as</hi> Admah? <hi>how ſhall I ſet thee as</hi> Zeboim? <hi>my heart is turned within me; my repentings are kindled together.</hi>
+            </p>
+            <p>I ſhould now inſiſt upon the third Reaſon, which is,</p>
+            <pb n="18" facs="tcp:106703:12"/>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>3</label> 3ly.t That man may have nothing to ſay in his own defence when Judgment is pronounced a<g ref="char:EOLhyphen"/>gainſt him; but <hi>Righteous art thou O Lord, and true are thy Judgments.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> But I ſhall proceed to ſpeak briefly of the third Propoſition, <hi>viz.</hi>
+            </p>
+            <p>* That it is not the outward bravery of an Earthly Sphere, not the Pomp and Pageantry of a fading world, that can guard us (if we ſin) from the Frowns of Heaven, or ſhield us from the Fatal Blow.</p>
+            <p>What, if <hi>Nineveh</hi> had the beſt Situation for the Salubrity of Air, and Fertility of Ground, yet had ſin remained Forty Days longer, and even <hi>Nineveh</hi> had been deſtroyed; her ſtately Struct<g ref="char:EOLhyphen"/>ures could not priviledge her from Ruin, nor her ſtrongeſt holds from Deſtruction; nor could all her Embelliſh'd Arts tempt or allure the angry Angel to withdraw his reſolute Arme.</p>
+            <p>Suppoſe this to have been the Worlds Won<g ref="char:EOLhyphen"/>der, or the Princes amongſt all Nations under Heaven: <hi>Yet Forty Days,</hi> and ſin would have le<g ref="char:EOLhyphen"/>velled her with the Duſt, and laid all her Pomp and Glory in the Grave. Suppoſe this City had been ſurrounded with the Walls of Braſs, and circled round with Trenches, whoſe Bottoms were lower than three times the <hi>Alpes</hi> are high; yet even they could not beat back the Heavens revenging blow, and the Reaſon may be given.</p>
+            <pb n="19" facs="tcp:106703:12"/>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>1</label> 1. To manifeſt to the World, that God is no reſpecter of Perſons; but that Judgment<note n="*" place="margin">
+                  <hi>Job.</hi> 34.9.</note> is as equal at the Pallace Gates of Princes, as at the Cottage Doors of the meaneſt Peaſants; the lofty Pine and the tall Cedar; the Bramble and the Shrub are all one: <hi>But in every Nation,</hi>
+               <note place="margin">
+                  <hi>Act.</hi> 10.34.35. <hi>Coloſ.</hi> 3.25. 2 <hi>Cron.</hi> 19.7</note> 
+               <hi>he that feareth him, and worketh Righteouſneſs is accepted with him, and he that doth wrong, ſhall receive for the wrong that he hath done, and there is no reſpect of Perſons.</hi>
+            </p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſ. </seg>2</label> 2ly. That Gods Wiſdom, Power, Juſtice, and an Odium againſt ſin, may the more appear; this made the <hi>Ninevites</hi> diſcern their approach<g ref="char:EOLhyphen"/>ing Ruin; <hi>Then they cryed mightily unto God, yea, they turned every one from his evil way; who can tell ſay they, but that God may turn from his Anger,</hi>
+               <note place="margin">
+                  <hi>Jonah.</hi> 3.9, 10.</note> 
+               <hi>and we not periſh.</hi> And 'tis ſaid that God ſaw their works, <hi>and repented of the evil that be had ſaid he would do unto them, and did it not.</hi>
+            </p>
+            <p>But to conclude by way of <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> and <hi>Application.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> 1ſt. Doth Sin bring Judgment? Then this may ſerve to juſtiſie God in all his Proceedings againſt this Nation: As <hi>Jacob</hi> ſaid of his Son <hi>Jo<g ref="char:EOLhyphen"/>ſephs</hi> Coat; <hi>an evil beaſt hath devoured him:</hi> So may we ſay of our Sins, for they are the Grand De<g ref="char:EOLhyphen"/>vourers both of Church and State; we had been at peace with one another, had not our ſins, the troublers of our <hi>Iſrael</hi> challenged the Almighty into Martial Armes, for <hi>impietas ad arma vocat,</hi> and the dread we have of a final Ruin, o<g ref="char:EOLhyphen"/>penly proclaims <hi>hic fuit iniquitas; hic ho<g ref="char:EOLhyphen"/>ſtilitas;</hi>
+               <pb n="20" facs="tcp:106703:13"/>that here hath been ſome reigning and damning Sins; for here hath liv'd the Atheiſt, and the debauch'd good Fel<g ref="char:EOLhyphen"/>low; the ſenſual and the ſecure Man; the Oppreſſor and the Godly Hypocrite; the Unjuſt and Violent; the Prophane and Ig<g ref="char:EOLhyphen"/>norant; a Plundering <hi>Achan,</hi> and an Op<g ref="char:EOLhyphen"/>preſſing <hi>Ahab;</hi> a Covetous <hi>Nabal,</hi> and a Fratricidious <hi>Cain;</hi> a Backbiting <hi>Ziba,</hi> and a Curſing <hi>Shimei;</hi> a Scoffing <hi>Cham,</hi> and a Prophane <hi>Eſau.</hi> Thus <hi>we have drank Ini<g ref="char:EOLhyphen"/>quity like water,</hi> and declin'd Sin, through<g ref="char:EOLhyphen"/>out all the Caſes.</p>
+            <list>
+               <item>In the <hi>Nominative,</hi> by Prophaneneſs.</item>
+               <item>In the <hi>Genitive,</hi> by Pride.</item>
+               <item>In the <hi>Dative,</hi> by a Carnal Security.</item>
+               <item>In the <hi>Accuſative,</hi> by Hypocriſie.</item>
+               <item>In the <hi>Vocative,</hi> by an Inſurrection.</item>
+               <item>In the <hi>Ablative,</hi> by a Damnable Re<g ref="char:EOLhyphen"/>bellion.</item>
+            </list>
+            <p>I ſhould have left a Caſe for Deſtruction too, but that comes in the Plural Number.</p>
+            <p>Firſt, To all ye wretchedly Prophane, <note n="*" place="margin">
+                  <hi>Ezek</hi> 5.4. <hi>Ezek.</hi> 28.16.</note> and therefore ſays <hi>God, I will bring up a Company upon them, and will give them to be
+<pb n="21" facs="tcp:106703:13"/>removed, and ſpoiled,</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.19. <hi>Ezek.</hi> 23.42.47.</note> 
+               <hi>and the Company ſhall ſtone them with Stones, and diſpatch them with their Swords, and they ſhall ſlay their Sons and their Daughters, and burn up their Houſes with Fire.</hi>
+            </p>
+            <p n="2">2ly. To all ye that are proud, <hi>God will deck himſelf with Majeſty, and array himſelf with glory; he will caſt abroad the Rage of his Wrath and behold every one that is proud and abaſe him.</hi>
+            </p>
+            <p n="3">3ly. To all ye that are carnally ſecure. Thus the ſecure People of * <hi>Laiſh</hi> were a<g ref="char:EOLhyphen"/>wakened,<note place="margin">
+                  <hi>Jud.</hi> 18 27, 28.</note> when the Edge of the <hi>Danites</hi> Sword came upon them, and when they burnt the City with Fire.</p>
+            <p n="4">4ly To all ye Hypocrites.</p>
+            <p>* Your hopes ſhall periſh,<note place="margin">
+                  <hi>Job.</hi> 8.13.</note> and ye ſhall not come into the preſence of the Lord. * <hi>Woe unto you</hi> Hypocrites,<note place="margin">
+                  <hi>Mat.</hi> 23.14.</note> 
+               <hi>for ye devour Widdows Houſes, and for a pretence make long Prayers; therefore ye ſhall receive the greater Damnation</hi>
+            </p>
+            <p n="5">5ly. To all ye that make Inſurrection.</p>
+            <p>Thus Judgment fell upon the fair <hi>Me<g ref="char:EOLhyphen"/>tropolis</hi> of the Diſſenting <hi>Jews, Jeruſa<g ref="char:EOLhyphen"/>lem</hi>
+               <pb n="22" facs="tcp:106703:14"/>hath been a City hurtful unto Kings; and becauſe they have moved Sedition within the ſame, therefore was this City de<g ref="char:EOLhyphen"/>ſtroyed; <q rend="inline">hide me from the gathering together of the froward and from the In<g ref="char:EOLhyphen"/>ſurrection of the Wicked Doers.</q>
+            </p>
+            <p n="6">6ly. and laſtly, to all ye Rebells.</p>
+            <p>There is a near affinity between an In<g ref="char:EOLhyphen"/>ſurrection and a Rebellion; the firſt being the ſeed, the laſt the harveſt: for grant Schiſm to be ſown in a Conventicle, and you may preſently reap a Rebellion in a Common Wealth.<note place="margin">
+                  <hi>Iſa.</hi> 30.1.</note> 
+               <hi>But woe to the Rebelli<g ref="char:EOLhyphen"/>ous Children who take Council, but not of me, and that cover with a covering, but not of my Spirit, that they may add ſin to ſin.</hi>
+            </p>
+            <p>Such are the fearful aggravations of <hi>Eng<g ref="char:EOLhyphen"/>land</hi>'s miſcarriages, that we have ſinn'd a<g ref="char:EOLhyphen"/>gainſt mercys, and many great deliveran<g ref="char:EOLhyphen"/>ces; againſt Truth and all Goodnſs; theſe ſhaddow our Goſpel-land with Clouds and thick darkneſs, and obſcure <q rend="inline">the path that leadeth unto Life that few there be who find it.</q> Hence it was that <hi>Brittain,</hi> like the Land of <hi>Aegypt,</hi> even as the Gard<g ref="char:EOLhyphen"/>en
+<pb n="23" facs="tcp:106703:14"/>of the Lord, became once a ſecond <hi>Rama,</hi> where in <hi>many Rachaels wept for their ſlain In<g ref="char:EOLhyphen"/>fants and woud not be comforted becauſe they were not;</hi> and it is even now juſt with the Al<g ref="char:EOLhyphen"/>mighty that Rebells be made Inſtruments of our Ruin, and Voyals of Vengeance to our mourning Iſle. Changing our Cor<g ref="char:EOLhyphen"/>nets of Peace and Joy into Trumpets of Warr and Sorrow; our Pens into Pikes, and our Maces into Swords: They like <hi>Sampſon,</hi> value not their own Deſtruction; therefore are come to Engrave the <hi>Hiſto<g ref="char:EOLhyphen"/>ry</hi> of a Rebellion with the Sword, and with ſuch Ink, as <hi>Draco</hi>'s Laws were wrote in Blood.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> 2ly. Is this the top of our Terrene per<g ref="char:EOLhyphen"/>fection to have our Coat of Or, &amp; Converſa<g ref="char:EOLhyphen"/>tion Sable, to be grac'd with the name of <hi>Piety,</hi> and yet diſgrac'd with Infirmities, &amp; charg'd with a load of Guilt, where is our Repentance?</p>
+            <p>When we lye under the burthen of a Griping Conſcience or the heavy preſſure of Gods, diſpleaſure, when we are under any temptation, or in danger of falling in<g ref="char:EOLhyphen"/>to
+<pb n="24" facs="tcp:106703:15"/>any ſin. In a word; when any Judg<g ref="char:EOLhyphen"/>ment, whether Spiritual or Temporal, threatens our ruin; 'tis then time, that the Guilty ſhould cry aloud with a hearty ſor<g ref="char:EOLhyphen"/>row for ſin, <hi>Save Lord, or we periſh;</hi> and why ſhould we diſtruſt, but that the ſame God that hath given us a Being, and pro<g ref="char:EOLhyphen"/>tected us from our Births, to this Moment, will alſo give us a ſincere Repentance, beat back our Enemies, and guide our Feet into the way of Peace? for we know he hath a return for the wandering <hi>Shulamite,</hi> and a Kiſs for the home-come Prodigal.</p>
+            <p>The <hi>Pſalmiſt</hi> once lay under the frowns of heaven, and was ſhrouded with a cloudy Day, when from Adultery he fell into Blood and Wounds; he kill'd <hi>
+                  <g ref="char:V">Ʋ</g>riah</hi> the <hi>Hittite</hi> with the Sword of the Children of <hi>Ammon,</hi> tho <hi>Nathan ſaid thou art the Man and ſhalt ſurely dye,</hi> yet, ſuch is the Lord's Mercy, that after Repentance comes Par<g ref="char:EOLhyphen"/>don. Says <hi>David I have ſinned againſt the Lord; then ſays the holy Prophet, the Lord hath put away thy ſin, thou ſhalt not dye:</hi> Joy then to the repenting ſinner, to him that has clip'd
+<pb n="25" facs="tcp:106703:15"/>the Wings of Faith, and daſh'd in pie<g ref="char:EOLhyphen"/>ces the Comforts of his ſaving hopes, and turn'd Gods Glory to Diſhonour: for ſays the Apoſtle, * <hi>ſuch were ſome of you, meaning the</hi> Corinthians. <hi>But ye are waſh'd but ye are ſanctified, but ye are juſtified in the Name of the Lord Jeſus, by the Spirit of our God:</hi> To this End, the Bleſſed Blood of the <hi>Paſchal Lamb</hi> was once ſpill'd that our Scarlet Sins might change their deep<g ref="char:EOLhyphen"/>eſt Dye, and be made as white as Snow; even ſuch as brought him from his Throne and nail'd him to the curſed Tree: by his <hi>blood</hi> he hath cancell'd all obligations and made us heirs of an eternal inheritance: This is the fountain of Mercy, that flows continually to refreſh the drooping Spi<g ref="char:EOLhyphen"/>rits of afflicted Souls, * <hi>Where the Spirit and the Bride ſays come, and he that is a thirſt come, * and let whoſoever will, come and take of the Water of Life freely.</hi> From this Fountain, the Redeemed of the Lord return, and come with ſinging unto <hi>Sion.</hi>
+            </p>
+            <p>But 3ly. and laſtly</p>
+            <p>Let us herein admire God's Love, that
+<pb n="26" facs="tcp:106703:16"/>he warns us, before he ſmites us, <hi>Yet Forty Days,</hi> &amp;c. his Love, inſnatching our <hi>Brittain</hi> from the Jaws of Death and ſtaving off Deſtruction from our Habitations here. When <hi>Sodom</hi> burn'd, <hi>Lot</hi> took Sanctuary in a little Village, and when <hi>Jeruſalem</hi> was lay'd waſte, ſome few Inhabitants had a <hi>Pella</hi> too.</p>
+            <p>Sing O Heavens, and rejoyce O Earth, that our <hi>Zoar</hi> is yet the houſe of God and the Gate of Heaven; thither, thither, will we flee and be at reſt, <hi>For God is in the mid'ſt of her, there<g ref="char:EOLhyphen"/>fore ſhall ſhe not be removed, God ſhall help her, &amp; that right early.</hi> O come let us ſing unto the Lord, let us heartily rejoyce in the ſtrength of our Salvati<g ref="char:EOLhyphen"/>on, that our Land is not yet ſoak'd with Blood, nor our duſt with the Fatneſs of the ſlain; that Monar<g ref="char:EOLhyphen"/>chy triumphs yet above Anarchy, and Shields the Throne from Cruelty and Uſurpation, and our <hi>Si<g ref="char:EOLhyphen"/>on</hi> from Deſtruction; that <hi>Epiſcopacie</hi> is yet the Cherub that guards the Paradiſe of God from all Invaders, landed on our Chriſtian Shore: but leaſt an over indulging Care of ſecuring our out<g ref="char:EOLhyphen"/>ward Peace, ſhould ſeem to leſten our Chri<g ref="char:EOLhyphen"/>ſtian Charity, and tempt us to a loſs of that with<g ref="char:EOLhyphen"/>in; let us ſend (as we are taught) humble beſeech<g ref="char:EOLhyphen"/>es unto God, that in his own good time he would bind up the breaches, delineate the blemiſhes, and raiſe up the lapſed Reputation of his divided Spouſe; and all for the honour, as well as merits of Jeſus Chriſt our Saviour.</p>
+            <p>
+               <hi>To whom with the Father,</hi> &amp;c. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106703:16"/>
+            <pb facs="tcp:106703:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
